@@ -42,8 +42,4 @@
   <js-module name="LowlaDB" src="www/LowlaDB-Cordova.js">
     <clobbers target="LowlaDB" />
   </js-module>
-  <dependency
-    id="com.vladstirbu.cordova.promise"
-    url="https://github.com/vstirbu/PromisesPlugin.git">
-  </dependency>  
 </plugin>
